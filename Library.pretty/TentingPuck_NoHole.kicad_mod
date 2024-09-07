@@ -1,0 +1,305 @@
+(footprint "TentingPuck_NoHole"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "X1"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1125ece-852b-4c9e-8065-4e6f269fe899")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Tenting puck"
+		(at 0.000001 1.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "355877c9-7107-4ca3-a487-c751fdac69e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "tenting_puck:TentingPuck_NoHole"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61d8de73-c3e7-439c-9402-86e85eb462c1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "582e2ae9-fc64-406d-a5b0-5870c0a8a7d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole without connection"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5154656-12bb-4f27-8fbe-761eafdf7efb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_arc
+		(start -20.32 -2.8575)
+		(mid -19.91151 -4.959784)
+		(end -19.286136 -7.008044)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "397fe8d7-1de4-473d-9c63-e32f40a61a02")
+	)
+	(fp_arc
+		(start -19.286135 7.008046)
+		(mid -19.911508 4.959785)
+		(end -20.32 2.8575)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "2f70567d-c836-4259-b7ed-7cc233bbdf65")
+	)
+	(fp_arc
+		(start -7.008046 -19.286135)
+		(mid -4.959785 -19.911508)
+		(end -2.8575 -20.32)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "1802cb77-fe13-4621-b73c-564cea63b262")
+	)
+	(fp_arc
+		(start -2.8575 20.32)
+		(mid -4.959785 19.911511)
+		(end -7.008045 19.286135)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "72cbe9a7-5080-4a18-84bc-981755d1187c")
+	)
+	(fp_arc
+		(start 2.8575 -20.32)
+		(mid 4.959787 -19.91151)
+		(end 7.008049 -19.286134)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "1f1093d3-4520-4342-ac0f-0fcef08b263d")
+	)
+	(fp_arc
+		(start 7.008045 19.286135)
+		(mid 4.959785 19.91151)
+		(end 2.8575 20.32)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "a6be7ab9-bf06-4b3f-bc42-f6daaac1434d")
+	)
+	(fp_arc
+		(start 19.286134 -7.008049)
+		(mid 19.91151 -4.959787)
+		(end 20.32 -2.8575)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "c347a1bc-62c9-4bb8-b11e-741ca9774e56")
+	)
+	(fp_arc
+		(start 20.32 2.8575)
+		(mid 19.911513 4.959787)
+		(end 19.286134 7.008048)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "a1a53536-3617-43b1-be6d-2f5b8f3a64ce")
+	)
+	(fp_arc
+		(start -20.32 -2.8575)
+		(mid -19.91151 -4.959787)
+		(end -19.286134 -7.008049)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0519b1d6-b8db-42d2-8ab6-61c96a18b912")
+	)
+	(fp_arc
+		(start -19.286134 7.008048)
+		(mid -19.911513 4.959787)
+		(end -20.32 2.8575)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1517ca5e-13c3-43b0-a302-b5166260ae6d")
+	)
+	(fp_arc
+		(start -7.008049 -19.286134)
+		(mid -4.959787 -19.91151)
+		(end -2.8575 -20.32)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6844fca8-80cf-4391-8a4f-3069703754ef")
+	)
+	(fp_arc
+		(start -2.8575 20.32)
+		(mid -4.959785 19.91151)
+		(end -7.008045 19.286135)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7663f02d-8118-457c-a312-8f42ec994632")
+	)
+	(fp_arc
+		(start 2.8575 -20.32)
+		(mid 4.959785 -19.911508)
+		(end 7.008046 -19.286135)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d9f0458-5e29-4e99-903d-d2582735faaa")
+	)
+	(fp_arc
+		(start 7.008045 19.286135)
+		(mid 4.959785 19.911511)
+		(end 2.8575 20.32)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f627c5b3-5c9b-440c-a345-56c803161882")
+	)
+	(fp_arc
+		(start 19.286136 -7.008044)
+		(mid 19.91151 -4.959784)
+		(end 20.32 -2.8575)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ead7fdeb-806e-40c2-8b05-d5b8e7c6a94f")
+	)
+	(fp_arc
+		(start 20.32 2.8575)
+		(mid 19.911508 4.959785)
+		(end 19.286135 7.008046)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "04ce4884-583d-40f5-a732-ec3f825b48e0")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 20.55 -0.000001)
+		(stroke
+			(width 0.55)
+			(type solid)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "2e379c4b-c759-483a-b1d7-e326cc156177")
+	)
+	(pad "1" smd circle
+		(at -19.05 0)
+		(size 3.3 3.3)
+		(layers "F.Cu" "F.Mask")
+		(uuid "745170e7-1acd-440a-8edc-b908504c3e76")
+	)
+	(pad "1" smd circle
+		(at -19.05 0)
+		(size 3.3 3.3)
+		(layers "B.Cu" "B.Mask")
+		(uuid "8d50574b-42fd-4c9e-a886-4c6fb39b118c")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -19.05)
+		(size 4.4 4.4)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "519c0b6c-acfa-4cc6-8807-c15cefd95002")
+	)
+	(pad "1" thru_hole circle
+		(at 0 19.05)
+		(size 4.4 4.4)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "847feddb-2303-4f25-92f6-2f42455f276e")
+	)
+	(pad "1" smd circle
+		(at 19.05 0)
+		(size 3.3 3.3)
+		(layers "F.Cu" "F.Mask")
+		(uuid "97f8e206-e88d-4e78-abde-cf3830b23c2c")
+	)
+	(pad "1" smd circle
+		(at 19.05 0)
+		(size 3.3 3.3)
+		(layers "B.Cu" "B.Mask")
+		(uuid "4ed0bbc8-d8d5-4fdb-9a84-b98c86089006")
+	)
+	(model "Z:/lq/egg34/3d/tenting-puck-puck.step"
+		(offset
+			(xyz 0 0 -8.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 180 0)
+		)
+	)
+)
