@@ -1,6 +1,6 @@
 # Solanum
 
-![](renders/image.png)
+![](photos/solanum.jpg)
 
 Solanum is a 34-key diodeless split keyboard based around Pro Micro compatible MCU modules. It features support for both wired and wireless builds and has been designed to be easily hand-assembled. The PCB is reversible and hotswap with support for Kailh Choc (v1) switches. 
 
@@ -18,6 +18,8 @@ Solanum includes support for a splitkb.com tenting puck
 
 It features a TRRS port for wired builds, and
 a dedicated battery JST and power switch for wireless builds.
+
+![](renders/image.png)
 
 ## BOM
 
