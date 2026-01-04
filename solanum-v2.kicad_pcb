@@ -176,7 +176,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/c52afbcb-97ea-4954-89a1-a582c2759641")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -286,7 +286,7 @@
 		)
 		(path "/09292fdf-8e99-4c27-94ea-b62517cba406")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.9 -5.9)
@@ -921,7 +921,7 @@
 		)
 		(path "/4f1d21f7-ffb3-45b7-8e61-15366d87a16d")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -1559,7 +1559,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/653f3fed-6af9-4b31-8d9d-c83a0d5d51a2")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.06 -1.46)
@@ -2596,7 +2596,7 @@
 		)
 		(path "/38df891b-0946-4339-92e4-fa5fa9b2818e")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 5.9)
@@ -3231,7 +3231,7 @@
 		)
 		(path "/3713534d-8b6e-43b9-b70b-f46f2c39edb5")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 5.9)
@@ -3868,7 +3868,7 @@
 		)
 		(path "/66df6ae6-440b-4634-aed3-2163f6f5081d")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.3 -2.3)
@@ -4207,7 +4207,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/17cebcec-4f6e-4ae2-9fe5-f0995bc1d02e")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4317,7 +4317,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9e2a12b1-5fd7-4452-86ca-25b4a82b4a2e")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_arc
 			(start -20.32 -2.8575)
@@ -4643,7 +4643,7 @@
 		)
 		(path "/64388411-c4af-4717-a556-cfb2bd3fb675")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.9 6.9)
@@ -5278,7 +5278,7 @@
 		)
 		(path "/c0601bb5-4594-4f27-b074-03204ac7575b")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.9 -5.9)
@@ -5913,7 +5913,7 @@
 		)
 		(path "/6d0586f5-9770-4c12-b861-16be371e1caf")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.9 -5.9)
@@ -6548,7 +6548,7 @@
 		)
 		(path "/e7c8ad21-b891-47c7-9186-1ae8556ec4d5")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -7187,7 +7187,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/e587bcc1-bd15-4670-8931-2c23cce033f7")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -7932,7 +7932,7 @@
 		)
 		(path "/1dbdbc1d-04f1-469f-9032-c59274526e40")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -8571,7 +8571,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/e62edf2b-cbee-401a-a717-5e0bca90baa3")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -8681,7 +8681,7 @@
 		)
 		(path "/883f305b-1080-4e86-97f6-2def2e68f9e1")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -9320,7 +9320,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/787f4e48-3ad7-4ec3-9130-d67436299df1")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -9434,7 +9434,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/e18dac58-3121-4900-a6bc-dbbca5b70bc8")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -9544,7 +9544,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/1fb13168-932f-4b7b-ab3e-29594cef9d9a")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.9 11.9)
@@ -9804,7 +9804,7 @@
 		)
 		(path "/8130d7f8-5ac1-4224-b613-2fa40aecf295")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -10439,7 +10439,7 @@
 		)
 		(path "/a3aa1a80-a6c5-4131-bd04-be17cf550e16")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.9 6.9)
@@ -11074,7 +11074,7 @@
 		)
 		(path "/0574b8d7-4e2d-4e26-82b7-cd4e5750f4ad")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -11709,7 +11709,7 @@
 		)
 		(path "/28f704b2-d1a8-473b-80c8-25d7f38ae4eb")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -12549,7 +12549,7 @@
 		)
 		(path "/427b71ff-8a0b-43f5-9f42-a726dc520eb6")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.9 -6.9)
@@ -13190,7 +13190,7 @@
 		)
 		(path "/a239c81b-dd2c-4016-92a9-f9719ab93e3d")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 13.97 5.842)
@@ -17445,7 +17445,7 @@
 		)
 		(path "/418e1dc5-bcfd-4916-9e99-5298f569ae5a")
 		(sheetname "Root")
-		(sheetfile "egg34.kicad_sch")
+		(sheetfile "solanum-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.9 -5.9)

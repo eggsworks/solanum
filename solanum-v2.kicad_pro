@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 12.0,
-          "height": 4.5,
-          "width": 12.0
+          "drill": 0.4,
+          "height": 0.8,
+          "width": 0.8
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|164698627|113184114|d0254058-46e8-47c9-9d47-19ac8b93256e|2bfab3e4-cb6e-4c4a-8a39-3f593d35646f",
+        "hole_clearance|164698627|113184114|d0254058-46e8-47c9-9d47-19ac8b93256e|a0bf8a9b-f840-4d2c-a3af-9f7ffb8cef2c",
+        "hole_clearance|167798153|113238216|d0254058-46e8-47c9-9d47-19ac8b93256e|f066e5e2-3122-4047-ba05-ba97f8fd18fb",
+        "hole_clearance|170319588|112032037|a2d0daf8-e646-4e91-951a-b1b8f3b06ce4|f066e5e2-3122-4047-ba05-ba97f8fd18fb"
+      ],
       "meta": {
         "version": 2
       },
@@ -446,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "egg34_plate.kicad_pro",
+    "filename": "solanum-v2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -481,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "solanum-1.0-plate",
+      "plot": "solanum-1.0-pcb",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

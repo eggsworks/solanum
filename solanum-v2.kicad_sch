@@ -3115,7 +3115,7 @@
 			(uuid "69caf411-ba8e-4473-8c9c-4b2935db5766")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW3")
 					(unit 1)
@@ -3186,7 +3186,7 @@
 			(uuid "11971f5a-f265-4b1d-8637-fc9dbd3d5ac9")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW14")
 					(unit 1)
@@ -3252,7 +3252,7 @@
 			(uuid "6b926f9f-44cd-4b08-84aa-0c02cde21bf1")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR05")
 					(unit 1)
@@ -3317,7 +3317,7 @@
 			)
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "H6")
 					(unit 1)
@@ -3528,7 +3528,7 @@
 			(uuid "0c774e1a-9d34-47ca-a2f2-05abaeb87b57")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR03")
 					(unit 1)
@@ -3599,7 +3599,7 @@
 			(uuid "6419fd1c-29ef-40a6-9ef0-5930563ed0ee")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW8")
 					(unit 1)
@@ -3670,7 +3670,7 @@
 			(uuid "16a63e2a-888d-4b23-ad08-71cfcc4b5f59")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW16")
 					(unit 1)
@@ -3741,7 +3741,7 @@
 			(uuid "24872b0c-bead-4602-8b30-62d430161cb9")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW15")
 					(unit 1)
@@ -3812,7 +3812,7 @@
 			(uuid "dc878407-acba-46f7-8eb7-31e0ca21d075")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW4")
 					(unit 1)
@@ -3883,7 +3883,7 @@
 			(uuid "5db370e8-65a8-489d-b4ba-180e5e7130c7")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW13")
 					(unit 1)
@@ -3950,7 +3950,7 @@
 			(uuid "3a9a5cb6-ba02-4d38-bd02-bd50b6fd329c")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR04")
 					(unit 1)
@@ -4016,7 +4016,7 @@
 			(uuid "311e5a05-8d69-4e7d-b5d9-21c86dfd020a")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR07")
 					(unit 1)
@@ -4087,7 +4087,7 @@
 			(uuid "ea1caa92-f14b-4d95-90ea-e0938bb766cc")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW10")
 					(unit 1)
@@ -4158,7 +4158,7 @@
 			(uuid "02446c8c-8bad-4e17-a967-021ef45be126")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW7")
 					(unit 1)
@@ -4295,7 +4295,7 @@
 			(uuid "d8473e9f-3c0a-4586-8a13-83810b8c6c35")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW2")
 					(unit 1)
@@ -4505,7 +4505,7 @@
 			(uuid "f197ee4e-2672-4a7c-880b-c5ef7cebb045")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW9")
 					(unit 1)
@@ -4570,7 +4570,7 @@
 			)
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "H3")
 					(unit 1)
@@ -4641,7 +4641,7 @@
 			(uuid "37ed7066-a532-4392-b21b-0f582382cb7c")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW6")
 					(unit 1)
@@ -4712,7 +4712,7 @@
 			(uuid "10f091d8-26be-49b3-9703-ecbdf30b25b8")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW11")
 					(unit 1)
@@ -4779,7 +4779,7 @@
 			(uuid "dc46ca5c-2f8b-4517-bcbe-c85cfae77cba")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "X1")
 					(unit 1)
@@ -4984,7 +4984,7 @@
 			(uuid "ff2b0233-6427-4432-b351-2f4bbd0ccadf")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW12")
 					(unit 1)
@@ -5050,7 +5050,7 @@
 			(uuid "d3312f64-5c61-4d6e-b432-93a022c2f35c")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR06")
 					(unit 1)
@@ -5121,7 +5121,7 @@
 			(uuid "2c0c5b24-8b7f-4212-bf27-f99f7bb6f26f")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW5")
 					(unit 1)
@@ -5252,7 +5252,7 @@
 			(uuid "5d67cc9b-f933-4084-8e1e-0676294759e8")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR02")
 					(unit 1)
@@ -5317,7 +5317,7 @@
 			)
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "H2")
 					(unit 1)
@@ -5382,7 +5382,7 @@
 			)
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "H4")
 					(unit 1)
@@ -5447,7 +5447,7 @@
 			)
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "H5")
 					(unit 1)
@@ -5518,7 +5518,7 @@
 			(uuid "0b11d24c-e8e2-4fca-a7ce-1a8e081c099c")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "SW17")
 					(unit 1)
@@ -5584,7 +5584,7 @@
 			(uuid "bfec0007-a8ab-41ad-8579-013d21efdffc")
 		)
 		(instances
-			(project "egg34"
+			(project "solanum-v2"
 				(path "/f3b8583d-5af4-40c4-95a8-98575f92f97f"
 					(reference "#PWR08")
 					(unit 1)
