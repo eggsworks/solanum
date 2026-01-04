@@ -1,6 +1,6 @@
 units:
-  kx: cx+1
-  ky: cy+1
+  kx: cx+.5
+  ky: cy+.5
   px: 1.25kx
   py: 1.25ky
 points:
@@ -13,13 +13,14 @@ points:
         outer:
           rows.bottom.skip: true
           rows.top.skip: true
-          key.splay: 7
+          key.splay: 4
+          key.height: 1.5kx
         pinky:
-          key.stagger: .5*ky
-          key.splay: -3
+          key.stagger: .33*ky
+          key.splay: 0
         ring:
           key.spread: kx+.85
-          key.stagger: .5*ky
+          key.stagger: .25*ky
           key.splay: -3
         middle:
           key.stagger: .3*ky
@@ -29,7 +30,7 @@ points:
           key.splay: -1
         inner:
           key.stagger: -.2*ky
-          key.splay: -2
+          key.splay: 0
       rows:
         bottom:
         home:
@@ -38,11 +39,11 @@ points:
       key:
         padding: 1ky
         spread: 1kx
-        width: 1*kx
-        splay: -15
+        width: 1.25*kx
+        splay: -7
       anchor:
         ref: matrix_inner_bottom
-        shift: [kx, -1.25ky]
+        shift: [.65kx, -1.35ky]
       columns:
         thumb:
       rows:
