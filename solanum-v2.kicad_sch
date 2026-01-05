@@ -4367,7 +4367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Slide_SPDT_Angled_CK_OS102011MA1Q"
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_Shouhan_MSK12C02"
 			(at 140.97 49.53 0)
 			(effects
 				(font

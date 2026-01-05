@@ -507,7 +507,7 @@
       "plot": "solanum-1.0-pcb",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "solanum-v2.step",
       "svg": "svg/",
       "vrml": ""
     },
