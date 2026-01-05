@@ -576,7 +576,7 @@
 			"dce4514b-91e3-4a49-9490-4d918991ae46" "ee7a46ef-fe66-4d6a-b32d-ed45b80427b7"
 		)
 	)
-	(model "Z:/lq/egg34/3d/SW_Hotswap_Kailh_Choc_V1.stp"
+	(model "3d/SW_Hotswap_Kailh_Choc_V1.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -587,7 +587,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "Z:/lq/egg34/3d/SW_Kailh_Choc_V1.stp"
+	(model "3d/SW_Kailh_Choc_V1.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -598,7 +598,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "Z:/lq/egg34/3d/MBK_Keycap_-_1u.step"
+	(model "3d/MBK_Keycap_-_1u.step"
 		(offset
 			(xyz 0 0 6.5)
 		)

@@ -291,7 +291,7 @@
 		(layers "B.Cu" "B.Mask")
 		(uuid "4ed0bbc8-d8d5-4fdb-9a84-b98c86089006")
 	)
-	(model "Z:/lq/egg34/3d/tenting-puck-puck.step"
+	(model "3d/tenting-puck-puck.step"
 		(offset
 			(xyz 0 0 -8.6)
 		)

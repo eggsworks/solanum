@@ -184,7 +184,7 @@
 		(layer "Edge.Cuts")
 		(uuid "5e35eed5-a5e4-49b1-add3-fb331f60e0c1")
 	)
-	(model "Z:/lq/egg34/3d/SW_Kailh_Choc_V1.stp"
+	(model "3d/SW_Kailh_Choc_V1.stp"
 		(offset
 			(xyz 0 0 -2)
 		)
@@ -195,7 +195,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "Z:/lq/egg34/3d/MBK_Keycap_-_1u.step"
+	(model "3d/MBK_Keycap_-_1u.step"
 		(offset
 			(xyz 0 0 4.5)
 		)

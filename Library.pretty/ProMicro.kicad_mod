@@ -4021,7 +4021,7 @@
 		)
 		(uuid "2597a3e9-8cdb-4190-abe0-81ea5cc3b7ac")
 	)
-	(model "Z:/lq/egg34/3d/Liatris.step"
+	(model "3d/Liatris.step"
 		(offset
 			(xyz 0 0 -2.6)
 		)

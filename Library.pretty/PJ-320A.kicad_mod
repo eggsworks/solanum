@@ -231,7 +231,7 @@
 		(remove_unused_layers no)
 		(uuid "b441f15b-8e28-4e69-b1b5-8fb95d80cb5a")
 	)
-	(model "Z:/lq/egg34/3d/CON_MJ-4PP-9.step"
+	(model "3d/CON_MJ-4PP-9.step"
 		(offset
 			(xyz 0 -6 0)
 		)

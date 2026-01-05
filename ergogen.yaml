@@ -56,10 +56,8 @@ outlines:
   keys:
     - what: rectangle
       where: true
-      size: [kx-.1,ky-.1]
+      size: [kx-1,ky-1]
   centers:
     - what: circle
       where: true
-      radius: 0
-      adjust:
-        shift: [kx/2, ky/2]
+      radius: 1
